@@ -5,10 +5,10 @@ This repository created in an online workshop with purpose of giving an introduc
 
 
 ## Environment And Packages used in this project
-[Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) is used to create the necessary environment in this project.
-[Leaflet](https://leafletjs.com/) for the interactive maps
-[Leaflet Markers Canvas](https://github.com/francoisromain/leaflet-markers-canvas#readme) for creating leaflet markers in a single canvas object.
-[Rbush](https://github.com/mourner/rbush) is required to use the Leaflet Markers Canvas package
+* [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) is used to create the necessary environment in this project.
+* [Leaflet](https://leafletjs.com/) for the interactive maps
+* [Leaflet Markers Canvas](https://github.com/francoisromain/leaflet-markers-canvas#readme) for creating leaflet markers in a single canvas object.
+* [Rbush](https://github.com/mourner/rbush) is required to use the Leaflet Markers Canvas package
 
 ## API 
 Necessary data comes from the [OpenSky Networks Rest API](https://opensky-network.org/apidoc/rest.html) with a limited version.
