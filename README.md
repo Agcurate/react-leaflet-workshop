@@ -3,6 +3,9 @@
 ## Introduction
 This repository created in an online workshop with purpose of giving an introductory information about using ReactJS and Vanilla LeafletJS libraries together to create Interactive Map application with multiple markers that modern browsers can't handle easily. Also, includes the basic layout of [Agcurate](https://agcurate.com/) Platform application. Aim is to create a basic example of the map application running on [OpenSky Network's Website](https://opensky-network.org/). Workshop's stream can be found on [Youtube](https://www.youtube.com/watch?v=009SfCm-Q4I)
 
+## Usage
+* npm install
+* npm start 
 
 ## Environment And Packages used in this project
 * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) is used to create the necessary environment in this project.
